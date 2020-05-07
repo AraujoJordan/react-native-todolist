@@ -5581,10 +5581,10 @@ react-native-safe-area-view@^0.14.9:
   dependencies:
     hoist-non-react-statics "^2.3.1"
 
-react-native-safe-area-view@^1.1.0:
-  version "1.1.0"
-  resolved "https://registry.yarnpkg.com/react-native-safe-area-view/-/react-native-safe-area-view-1.1.0.tgz#5cdfd9497a3e585e45e5be466bef687e1f425636"
-  integrity sha512-0tWEFv21uy54dWQ9Bb1d/N1f0f0LTAKm8xn5fqyS9rvV7YkULfK73ddtALa079DzzrzaLAPkxTKss6QkNIP4+w==
+react-native-safe-area-view@^1.1.1:
+  version "1.1.1"
+  resolved "https://registry.yarnpkg.com/react-native-safe-area-view/-/react-native-safe-area-view-1.1.1.tgz#9833e34c384d0513f4831afcd1e54946f13897b2"
+  integrity sha512-bbLCtF+tqECyPWlgkWbIwx4vDPb0GEufx/ZGcSS4UljMcrpwluachDXoW9DBxhbMCc6k1V0ccqHWN7ntbRdERQ==
   dependencies:
     hoist-non-react-statics "^2.3.1"
 
